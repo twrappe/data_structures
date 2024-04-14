@@ -4,7 +4,7 @@ from linked_node import LinkedNode
 
 class TestLinkedNode(unittest.TestCase):
     """
-    Test Cases for LinkedLists
+    Test Cases for LinkedNodes
 
     """
     def setUp(self) -> None:
